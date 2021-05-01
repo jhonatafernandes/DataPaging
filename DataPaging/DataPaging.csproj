@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	  
+	<PackageId>DataPaging</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Jhonata Fernandes</Authors>
+    <Company>jhonatafernandes.com</Company>
+    <PackageDescription>Method for data pagination</PackageDescription>
+    <Description>Function to abstract the pagination of data from a list</Description>
+    <RepositoryUrl>https://github.com/jhonatafernandes/DataPaging</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jhonatafernandes/DataPaging</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Data Paging;Pagination;Data Pagination;Paged</PackageTags>
+    <Title>Data Paging</Title>
+    <Summary>Function to abstract the pagination of data from a list</Summary>
+  </PropertyGroup>
+
+</Project>
